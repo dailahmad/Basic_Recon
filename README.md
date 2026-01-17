@@ -1,2 +1,4 @@
 # Basic_Recon
-Just trying to create repository.
+Dail Ahmad.
+Itsolera Offensive Internship.
+Implementing task.
